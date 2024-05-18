@@ -4,7 +4,7 @@ export const Jumbotron = () => {
     return (
 
         <React.Fragment>
-            <div className="container jumbotron bg-light">
+            <div className="container jumbotron bg-light p-5">
                 <h1 className="display-4">A Warm Welcome!</h1>
                 <p className="lead"></p>
 
